@@ -8,3 +8,6 @@ All solved problems organized by pattern/category.
 
 ## Arrays & Hashing
 - [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) - *Hard*
+
+## Two Pointers
+- [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) - *Medium*
