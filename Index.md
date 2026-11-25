@@ -11,3 +11,6 @@ All solved problems organized by pattern/category.
 
 ## Two Pointers
 - [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) - *Medium*
+
+## Uncategorized
+- [EXACTKMOVES](./CodeChef/Unknown/EXACTKMOVES) - *Unknown*
